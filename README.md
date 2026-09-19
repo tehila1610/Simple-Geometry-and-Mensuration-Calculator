@@ -35,7 +35,7 @@ This project helped me practice:
 Make sure Python is installed, then run:
 
 ```bash
-calculator.py
+python calculator.py
 ```
 
 Follow the menu and enter the requested values.
